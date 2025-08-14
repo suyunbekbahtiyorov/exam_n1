@@ -22,7 +22,7 @@ ul{
 header{
     padding-top: 28px;
     padding-bottom: 28px;
-    /* position: fixed; */
+    position: fixed;
     width: 100%;
 }
 
@@ -62,7 +62,7 @@ header{
     background-repeat: no-repeat;
     background-size: cover;
     height: 710px;
-    padding-top: 80px;
+    padding-top: 160px;
 }
 
 .empower{
